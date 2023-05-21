@@ -25,7 +25,7 @@ public class Main {
         service.addProduct(new Product("Lenovo Mouse", "Mouse", "Black Drawer", 2022));
         service.addProduct(new Product("BlackBeast", "Computer", "White Table", 2020));
    
-/*         
+        
          Scanner obj=new Scanner(System.in);
         String inser1,inser2;
         while(true)
@@ -106,5 +106,5 @@ public class Main {
             }
             if(inser1.equals("7"))
                         break;
-        } */
+        }
 }} 
